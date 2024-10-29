@@ -1,0 +1,2105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rhye\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-07 09:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: inc/functions/acf/acf_fields.php:390
+msgid " 200 (Ultra Light)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:392
+msgid " 300 (Light)"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/sidebar.php:13
+msgid ""
+" This option has an effect only on desktop. On mobile the sidebar is always "
+"below the content."
+msgstr ""
+
+#. 1: comment date, 2: comment time
+#: inc/classes/class-arts-walker-comment.php:72
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/merlin/merlin-config.php:26
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/merlin-config.php:42
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:388
+msgid "100 (Thin)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:389
+msgid "100i (Thin Italic)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:391
+msgid "200i (Ultra Light Italic)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:393
+msgid "300i (Light Italic)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:394
+msgid "400 (Regular)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:395
+msgid "400i (Regular Italic)"
+msgstr ""
+
+#: inc/customizer/panels/pages/pages.php:11
+msgid "404"
+msgstr ""
+
+#: 404.php:6 inc/customizer/panels/pages/sections/404.php:62
+msgid "404 Error"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-upper.php:22
+msgid "5  /  7"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:396
+msgid "500 (Medium)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:397
+msgid "500i (Medium Italic)"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-upper.php:21
+msgid "6  /  6"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:398
+msgid "600 (Semi Bold)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:399
+msgid "600i (Semi Bold Italic)"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-upper.php:20
+msgid "7  /  5"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:400
+msgid "700 (Bold)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:401
+msgid "700i (Bold Italic)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:402
+msgid "800 (Extra Bold)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:403
+msgid "800i (Extra Bold Italic)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:404
+msgid "900 (Black)"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:405
+msgid "900i (Black Italic)"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:43
+#: inc/customizer/panels/general-style/sections/animations.php:88
+#: inc/customizer/panels/general-style/sections/animations.php:105
+#: inc/customizer/panels/general-style/sections/animations.php:150
+msgid ""
+"A float value - speed multiplier. 1.0 = default speed. 0.5 = half speed. 2.0 "
+"= double speed"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:33
+msgid ""
+"A float value between 0.0 and 1.0 defining the animation time (in seconds) "
+"when the virtual mouse follower is interacting with an element."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:40
+msgid ""
+"A float value between 0.0 and 1.0 defining the momentum reduction damping "
+"factor."
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:26
+msgid ""
+"A float value between 0.0 and 1.0 defining the position of the trigger hook "
+"in relation to the viewport."
+msgstr ""
+
+#: inc/customizer/panels/header/sections/options.php:60
+msgid "Absolute"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:37
+msgid "Activate"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/merlin-config.php:40
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:281
+msgid "Add Custom Font"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:353
+msgid "Add Font File"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:17
+msgid "Additional Content"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:443
+msgid "Additional Media Fields"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:118
+#: inc/customizer/panels/footer/sections/section-upper.php:117
+msgid "Adjust Widgets Text Alignment Depending on Columns Layout"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:65 inc/merlin/merlin-config.php:68
+msgid "Advanced"
+msgstr ""
+
+#: inc/functions/load_plugins.php:41
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:22
+msgid "AJAX Loading Spinner"
+msgstr ""
+
+#. Description of the theme
+msgid "AJAX Portfolio WordPress Theme"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/theme-options.php:8
+msgid "AJAX Transitions"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:208
+msgid "Album Content"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:162
+msgid "All Categories"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:69
+msgid "All done. Have fun!"
+msgstr ""
+
+#: template-parts/blog/filter/filter-ajax.php:3
+#: template-parts/blog/filter/filter-current-page.php:3
+msgid "All Posts"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:58
+msgid ""
+"An integer value between 1 and 20 defining how fast the virtual mouse "
+"follower will trail to the native mouse."
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:80
+#: inc/customizer/title-tagline/title-tagline.php:122
+msgid "and lower"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:32
+msgid "Animation Duration"
+msgstr ""
+
+#: inc/customizer/panels/general-style/general-style.php:11
+msgid "Animations"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:10
+msgid "Appears at the bottom of the portfolio pages."
+msgstr ""
+
+#: inc/functions/widget_areas.php:38 inc/functions/widget_areas.php:47
+msgid "Appears in blog."
+msgstr ""
+
+#: inc/functions/widget_areas.php:81
+msgid "Appears in Page Footer Lower Section."
+msgstr ""
+
+#: inc/functions/widget_areas.php:60 inc/functions/widget_areas.php:70
+msgid "Appears in Page Footer Upper Section."
+msgstr ""
+
+#: inc/functions/widget_areas.php:96
+msgid "Appears in the top menu."
+msgstr ""
+
+#: inc/merlin/merlin-filters.php:192 inc/functions/widget_areas.php:22
+msgid ""
+"Appears on desktop in the page header if menu type is set to \"fullscreen\"."
+msgstr ""
+
+#. Author of the theme
+msgid "Artem Semkin"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:268
+msgid "Author"
+msgstr ""
+
+#: inc/functions/constants.php:10 inc/functions/constants.php:33
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:26
+msgid "Auto Scroll Next"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:59
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:60
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:171
+msgid "Back to home page"
+msgstr ""
+
+#: 404.php:9
+msgid "Back to homepage"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:299
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:145
+msgid "Backward"
+msgstr ""
+
+#: inc/functions/constants.php:55
+#: inc/customizer/panels/typography/typography.php:64
+#: inc/customizer/panels/typography/sections/blockquote.php:12
+msgid "Blockquote"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+#: inc/functions/helpers/set_page_title.php:76
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/panels/blog/blog.php:24
+msgid "Blog Page"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:44
+msgid "Blog Page Color Theme"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:57
+msgid "Blog Page Main Elements Color"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:137
+msgid "Blog Page Posts Headings"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:193
+msgid "Blog Page Posts Thumbnails"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:375
+msgid "Blog Pagination"
+msgstr ""
+
+#: inc/functions/widget_areas.php:36 inc/functions/widget_areas.php:45
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer/panels/typography/typography.php:12
+#: inc/customizer/panels/typography/sections/paragraph.php:12
+msgid "Body Text & Paragraph"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:187
+msgid "Bordered"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:15
+#: inc/customizer/panels/blog/sections/blog-page.php:15
+#: inc/customizer/panels/header/sections/options.php:15
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:283
+msgid "Burger Menu"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:155
+msgid "Button"
+msgstr ""
+
+#: template-parts/blog/post/partials/post_info.php:30
+msgid "by"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:32
+msgid "Cancel"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:266
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:189
+msgid "Choose a link to the page where all your portfolio items are listed."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:306
+msgid "Circle Arrows"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:15
+msgid "Classic"
+msgstr ""
+
+#: template-parts/photoswipe/pswp-container.php:53
+msgid "Close (Esc)"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:104
+msgid "Close transition timescale"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:81
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:25
+#: inc/customizer/panels/pages/sections/404.php:115
+#: inc/customizer/panels/pages/sections/404.php:197
+#: inc/customizer/panels/pages/sections/portfolio.php:285
+msgid "Color Theme"
+msgstr ""
+
+#: inc/customizer/panels/general-style/general-style.php:24
+#: inc/customizer/panels/blog/sections/style.php:30
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:58
+#: inc/customizer/panels/footer/sections/section-upper.php:79
+msgid "Column"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:46
+msgid "Columns"
+msgstr ""
+
+#: comments.php:22
+msgid "Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:267
+msgid "Comments Counter"
+msgstr ""
+
+#: inc/functions/load_plugins.php:57
+#: inc/customizer/panels/theme-options/theme-options.php:18
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:9
+#: inc/customizer/panels/blog/sections/blog-page.php:9
+#: inc/customizer/panels/header/sections/options.php:9
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:43
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:61
+msgid "Controls"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:353
+msgid "Counter"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:392
+msgid "Counter Preset"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:161
+msgid "Current Page"
+msgstr ""
+
+#: inc/customizer/panels/general-style/general-style.php:37
+msgid "Curtains"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/curtains.php:12
+msgid "Curtains Style"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/curtains.php:17
+msgid "Curved"
+msgstr ""
+
+#: inc/classes/class-arts-add-custom-fonts.php:213
+#: inc/functions/acf/acf_fields.php:262
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:27
+msgid "Custom Image"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:26
+msgid "Custom Text"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:38
+msgid "Damping"
+msgstr ""
+
+#: inc/functions/constants.php:34
+msgid "Dark"
+msgstr ""
+
+#: inc/functions/constants.php:11
+msgid "Dark 1"
+msgstr ""
+
+#: inc/functions/constants.php:12
+msgid "Dark 2"
+msgstr ""
+
+#: inc/functions/constants.php:13
+msgid "Dark 3"
+msgstr ""
+
+#: inc/functions/constants.php:14
+msgid "Dark 4"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:25
+msgid "Dark Color 1"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:48
+msgid "Dark Color 2"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:71
+msgid "Dark Color 3"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:94
+msgid "Dark Color 4"
+msgstr ""
+
+#: inc/customizer/panels/typography/sections/xl-headings.php:95
+#: inc/customizer/panels/typography/sections/xl-headings.php:228
+#: inc/customizer/panels/typography/sections/blockquote.php:105
+#: inc/customizer/panels/typography/sections/paragraph.php:105
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:105
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:258
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:411
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:564
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:717
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:870
+#: inc/customizer/panels/typography/sections/drop-cap.php:105
+#: inc/customizer/panels/typography/sections/subheading.php:95
+msgid "Dark Color Preset"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:11
+msgid "Dark Presets"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:265
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:326
+msgid "Date Style"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:47
+msgid "Day archive"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:25
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:109
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:193
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:277
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:361
+msgid "Desktop Distance (px)"
+msgstr ""
+
+#: inc/customizer/panels/typography/sections/xl-headings.php:49
+#: inc/customizer/panels/typography/sections/xl-headings.php:182
+#: inc/customizer/panels/typography/sections/blockquote.php:49
+#: inc/customizer/panels/typography/sections/paragraph.php:49
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:49
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:202
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:355
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:508
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:661
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:814
+#: inc/customizer/panels/typography/sections/drop-cap.php:49
+#: inc/customizer/panels/typography/sections/subheading.php:49
+msgid "Desktop font size (px)"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:39
+msgid "Desktop screens"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:275
+msgid "Desktop size (px)"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:28
+msgid "Disable this wizard"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/layout.php:22
+msgid "Disable to avoid page jump when scrolling on mobile devices."
+msgstr ""
+
+#: inc/functions/frontend.php:161
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:151
+msgid "Drag Me"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:149
+msgid "Draggable Sliders"
+msgstr ""
+
+#: inc/customizer/panels/typography/typography.php:77
+#: inc/customizer/panels/typography/sections/drop-cap.php:12
+msgid "Drop Cap"
+msgstr ""
+
+#: inc/classes/class-arts-walker-comment.php:27
+#: inc/classes/class-arts-walker-comment.php:99
+msgid "Edit"
+msgstr ""
+
+#: inc/functions/load_plugins.php:63
+msgid "Elementor"
+msgstr ""
+
+#: inc/functions/blog/comments.php:53
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:9
+msgid "Enable \"Progress\" System Cursor"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:294
+msgid "Enable \"Read More\" Button"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:162
+msgid "Enable archive link"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:36
+msgid "Enable Captions"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:109
+msgid "Enable Close Button"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:374
+msgid "Enable Counter"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/contact-form-7.php:9
+msgid "Enable Custom Modal Windows"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:82
+msgid "Enable Edge Easing"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:98
+msgid "Enable Fancy Grid"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:138
+msgid "Enable Filter by Categories"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:86
+msgid "Enable Fixed Masthead"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:98
+msgid "Enable Fullscreen Toggle"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:65
+msgid "Enable Image Transition"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:240
+msgid "Enable Interaction with Elements"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:246
+msgid "Enable Meta Information"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:20
+msgid "Enable Mouse Cursor Follower"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:43
+msgid "Enable on desktops"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:20
+msgid "Enable on Elementor Canvas Pages "
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:61
+msgid "Enable on mobiles"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:13
+msgid "Enable on-scroll animation"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:194
+msgid "Enable On-Scroll Rotation"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/outdated-browsers.php:9
+msgid "Enable Outdated Browser Notification"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/static.php:9
+msgid "Enable Page Gutters"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:9
+msgid "Enable Page Preloader"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:9
+msgid "Enable Page Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:103
+msgid "Enable Parallax"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:9
+msgid "Enable Portfolio Navigation"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:87
+msgid "Enable Prev & Next Arrows"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:63
+msgid "Enable Render by Pixels"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:193
+#: inc/customizer/panels/pages/sections/portfolio.php:42
+msgid "Enable Scroll Down Button"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:9
+msgid "Enable Seamless AJAX Transitions"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:132
+#: inc/customizer/panels/footer/sections/section-upper.php:131
+#: inc/customizer/panels/pages/sections/portfolio.php:328
+msgid "Enable Section Divider"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:25
+msgid "Enable Slides Counter"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:76
+msgid "Enable Zoom Functionality"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/merlin-config.php:44
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: inc/functions/load_plugins.php:70
+msgid "Envato Market"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:139
+msgid "Eval Custom Script"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:74
+msgid "Explore WordPress"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:447
+msgid "External URL"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:72
+msgid "Extras"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:13
+msgid "Featured Image Layout"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:156
+msgid "Filter Mode"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/layout.php:9
+msgid "Fit Fullscreen Height Elements"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:304
+msgid "Font Display"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:285
+msgid "Font Family Name"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:338
+msgid "Font Files"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:376
+msgid "Font Weight"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:495
+msgid "Fonts are saved and ready to use from"
+msgstr ""
+
+#: inc/customizer/customizer.php:85
+msgid "Footer"
+msgstr ""
+
+#: inc/functions/widget_areas.php:79
+#, php-format
+msgid "Footer Lower: %s Column"
+msgstr ""
+
+#: inc/functions/widget_areas.php:68
+#, php-format
+msgid "Footer Upper: %s Column"
+msgstr ""
+
+#: inc/functions/widget_areas.php:58
+msgid "Footer Upper: Large Column"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:17
+msgid "For example, you can upload here a pure white version of your logo."
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:146
+msgid "Forward"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:19
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:20
+#: inc/customizer/panels/header/sections/menu.php:16
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/merlin/merlin-filters.php:190 inc/functions/widget_areas.php:20
+msgid "Fullscreen Menu Widgets"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:14
+#: inc/customizer/panels/footer/sections/section-upper.php:19
+#: inc/customizer/panels/blog/sections/blog-page.php:14
+#: inc/customizer/panels/header/sections/options.php:14
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/theme-options.php:38
+msgid "Galleries"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:398
+msgid "Gallery Top Bar Buttons"
+msgstr ""
+
+#: inc/customizer/customizer.php:33
+msgid "General Style"
+msgstr ""
+
+#: template-parts/blog/post/content/content-none.php:11
+msgid "Get started here!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:75
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/functions/constants.php:20
+msgid "Gray 1"
+msgstr ""
+
+#: inc/functions/constants.php:21
+msgid "Gray 2"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:265
+msgid "Gray Color 1"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:288
+msgid "Gray Color 2"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:251
+msgid "Gray Presets"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:34
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/panels/general-style/general-style.php:50
+msgid "Gutters"
+msgstr ""
+
+#: inc/customizer/panels/typography/typography.php:38
+msgid "H1 - H6 Headings"
+msgstr ""
+
+#: inc/customizer/customizer.php:72
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:70
+msgid "Heading"
+msgstr ""
+
+#: inc/functions/constants.php:48
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:12
+msgid "Heading 1"
+msgstr ""
+
+#: inc/functions/constants.php:49
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:165
+msgid "Heading 2"
+msgstr ""
+
+#: inc/functions/constants.php:50
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:318
+msgid "Heading 3"
+msgstr ""
+
+#: inc/functions/constants.php:51
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:471
+msgid "Heading 4"
+msgstr ""
+
+#: inc/functions/constants.php:52
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:624
+msgid "Heading 5"
+msgstr ""
+
+#: inc/functions/constants.php:53
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:777
+msgid "Heading 6"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:93
+msgid "Heading Preset"
+msgstr ""
+
+#: inc/functions/constants.php:47
+#: inc/customizer/panels/typography/sections/xl-headings.php:145
+msgid "Heading XL"
+msgstr ""
+
+#: inc/customizer/panels/typography/sections/xl-headings.php:12
+msgid "Heading XXL"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:245
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:166
+msgid "Helper Icon"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:128
+msgid "Helper Label"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:51
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:243
+msgid "Hide Page Subheading"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/gutters.php:11
+msgid "Horizontal Gutter Presets"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://artemsemkin.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://artemsemkin.com/rhye/wp/"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:187
+msgid "Icon Size (px)"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:29
+msgid "Image Height (vh)"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:59
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:215
+msgid "Images & self-hosted videos"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:36
+msgid "Import"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:66
+msgid "Import Content"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:96
+msgid "Increase width of the 2nd column"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/galleries.php:11
+msgid "Indicators"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:33 inc/merlin/merlin-config.php:34
+#: inc/merlin/merlin-config.php:35
+msgid "Install"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:54
+msgid "Install Child Theme"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:61
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:257
+msgid "Interact with..."
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:450
+msgid "Internal Page or External Media Source (Youtube, Vimeo)"
+msgstr ""
+
+#: inc/functions/load_plugins.php:83
+msgid "Intuitive Custom Post Order"
+msgstr ""
+
+#: 404.php:7 inc/customizer/panels/pages/sections/404.php:77
+msgid ""
+"It looks like nothing found here. Try to navigate the menu or return to the "
+"home page."
+msgstr ""
+
+#: template-parts/blog/post/content/content-none.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:21
+msgid "It won't appear on touch devices regardless of this setting."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:92
+msgid ""
+"jQuery selectors separated by comma. Example: [data-elementor-open-lightbox],"
+" .myPreventClass"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:174
+msgid ""
+"jQuery selectors separated by comma. Example: link[id*=\"eael\"], "
+"style[id*=\"theplus-\"]"
+msgstr ""
+
+#: template-parts/nav/nav-portfolio-auto-scroll.php:16
+#: inc/customizer/panels/pages/sections/portfolio.php:91
+msgid "Keep Scrolling"
+msgstr ""
+
+#: inc/functions/load_plugins.php:77
+msgid "Kirki"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:210
+#: inc/customizer/panels/blog/sections/blog-page.php:309
+#: inc/customizer/panels/theme-options/sections/scroll-down.php:8
+#: inc/customizer/panels/pages/sections/404.php:169
+msgid "Label"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:258
+msgid "Labels"
+msgstr ""
+
+#: inc/functions/widget_areas.php:94
+msgid "Language Switcher Area"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:95
+msgid "Large Distance Preset"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:38
+msgid "Later"
+msgstr ""
+
+#: inc/customizer/panels/general-style/general-style.php:63
+#: inc/customizer/panels/footer/sections/section-upper.php:14
+#: inc/customizer/panels/blog/sections/blog-page.php:28
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer.php:37
+msgid "Layout Lower Section"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer.php:24
+msgid "Layout Upper Section"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:58
+msgid "Learn about child themes"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/sidebar.php:19
+msgid "Left Side"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:56
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:67
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:63
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:45
+msgid "License key"
+msgstr ""
+
+#: inc/functions/constants.php:35
+msgid "Light"
+msgstr ""
+
+#: inc/functions/constants.php:15
+msgid "Light 1"
+msgstr ""
+
+#: inc/functions/constants.php:16
+msgid "Light 2"
+msgstr ""
+
+#: inc/functions/constants.php:17
+msgid "Light 3"
+msgstr ""
+
+#: inc/functions/constants.php:18
+msgid "Light 4"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:145
+msgid "Light Color 1"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:168
+msgid "Light Color 2"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:191
+msgid "Light Color 3"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:214
+msgid "Light Color 4"
+msgstr ""
+
+#: inc/customizer/panels/typography/sections/xl-headings.php:113
+#: inc/customizer/panels/typography/sections/xl-headings.php:246
+#: inc/customizer/panels/typography/sections/blockquote.php:128
+#: inc/customizer/panels/typography/sections/paragraph.php:128
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:128
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:281
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:434
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:587
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:740
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:893
+#: inc/customizer/panels/typography/sections/drop-cap.php:128
+#: inc/customizer/panels/typography/sections/subheading.php:113
+msgid "Light Color Preset"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:131
+msgid "Light Presets"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:59
+#: inc/customizer/panels/blog/sections/blog-page.php:33
+msgid "List"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:15
+msgid "Load Page"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:254
+msgid "Loading Circle"
+msgstr ""
+
+#: template-parts/preloader/preloader.php:7
+#: inc/customizer/panels/theme-options/sections/preloader.php:72
+msgid "Loading..."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:25
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:38
+#: inc/customizer/title-tagline/title-tagline.php:74
+#: inc/customizer/title-tagline/title-tagline.php:116
+msgid "Logo Max Height"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:53
+#: inc/customizer/panels/theme-options/sections/preloader.php:43
+msgid "Logo to Display"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:39
+#: inc/customizer/panels/pages/sections/404.php:128
+#: inc/customizer/panels/pages/sections/portfolio.php:312
+#: inc/customizer/panels/header/sections/options.php:25
+msgid "Main Elements Color"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/options.php:39
+msgid "Main Logo to Display"
+msgstr ""
+
+#: inc/functions/nav.php:16
+msgid "Main Menu"
+msgstr ""
+
+#: inc/functions/elementor/elementor_custom_icons.php:10
+msgid "Material Icons"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:212
+msgid "Media Gallery"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:179
+msgid "Medium Distance Preset"
+msgstr ""
+
+#: inc/customizer/panels/header/header.php:24
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:44
+msgid "Menu Background Overlay"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:25
+msgid "Menu Overlay Theme Elements"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:9
+msgid "Menu Style"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:75
+msgid "Message"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:39
+#: inc/customizer/panels/footer/sections/section-upper.php:60
+msgid "Mobile Columns Stack Order"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:53
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:137
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:221
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:305
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:389
+msgid "Mobile Distance (px)"
+msgstr ""
+
+#: inc/customizer/panels/typography/sections/xl-headings.php:72
+#: inc/customizer/panels/typography/sections/xl-headings.php:205
+#: inc/customizer/panels/typography/sections/blockquote.php:77
+#: inc/customizer/panels/typography/sections/paragraph.php:77
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:77
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:230
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:383
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:536
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:689
+#: inc/customizer/panels/typography/sections/h1-h6-headings.php:842
+#: inc/customizer/panels/typography/sections/drop-cap.php:77
+#: inc/customizer/panels/typography/sections/subheading.php:72
+msgid "Mobile font size (px)"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:58
+#: inc/customizer/panels/footer/sections/section-upper.php:79
+msgid "Mobile Order"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:119
+msgid "Mobile screens"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:305
+msgid "Mobile size (px)"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:52
+msgid "Month archive"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:309
+msgid "More information"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/theme-options.php:28
+msgid "Mouse Cursor"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:40 inc/functions/blog/comments.php:43
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:21
+msgid "Navigation Style"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:48
+msgid "Need help?"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:30
+msgid "Next"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:115
+msgid "Next Label"
+msgstr ""
+
+#: template-parts/nav/nav-portfolio-auto-scroll.php:19
+#: inc/customizer/panels/pages/sections/portfolio.php:119
+msgid "Next Project"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:18
+msgid "Normal"
+msgstr ""
+
+#: inc/functions/blog/comments.php:83
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:14
+#: inc/customizer/panels/footer/sections/section-upper.php:35
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:252
+#: inc/customizer/panels/blog/sections/blog-page.php:300
+#: inc/customizer/panels/blog/sections/style.php:19
+#: inc/customizer/panels/pages/sections/portfolio.php:168
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:251
+#: inc/customizer/panels/blog/sections/blog-page.php:299
+#: inc/customizer/panels/blog/sections/style.php:18
+#: inc/customizer/panels/pages/sections/portfolio.php:167
+msgid "On"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:11
+msgid "On-Scroll"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:87
+msgid "Open transition timescale"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer.php:11
+#: inc/customizer/panels/header/header.php:11
+msgid "Options"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/theme-options.php:48
+msgid "Outdated Browsers"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:73
+msgid "Overlay Menu"
+msgstr ""
+
+#: inc/customizer/panels/general-style/general-style.php:76
+msgid "Paddings & Margins"
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgid "Pages"
+msgstr ""
+
+#: page.php:43 template-parts/blog/post/post-single.php:22
+msgid "Pages:"
+msgstr ""
+
+#: inc/functions/constants.php:54
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/post.php:133
+msgid "Parallax Speed"
+msgstr ""
+
+#: inc/functions/blog/password_form.php:14
+msgid "Password"
+msgstr ""
+
+#: inc/classes/class-arts-walker-comment.php:24
+msgid "Pingback:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/customizer/panels/pages/pages.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/options.php:55
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:331
+msgid "Post Meta"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:37
+msgid "Posts by author"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:32
+msgid "Posts in category"
+msgstr ""
+
+#: inc/functions/blog/pagination.php:44
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:140
+msgid "Posts Navigation Direction"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:280
+msgid "Posts Preview"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:42
+msgid "Posts with tag"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/theme-options.php:58
+#: inc/customizer/panels/general-style/sections/animations.php:135
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:217
+msgid "Preloader Background Color"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:198
+msgid "Preloader Elements Color"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:20
+msgid "Preloader Style"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:91
+msgid "Prevent elements from being AJAX triggered"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:109
+msgid "Prevent Header Widget Area"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:12
+msgid "Preview"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:58
+#: inc/customizer/panels/theme-options/sections/preloader.php:48
+#: inc/customizer/panels/header/sections/options.php:44
+#: inc/customizer/panels/header/sections/options.php:94
+msgid "Primary"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:21
+msgid "Properties"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:79
+#: inc/customizer/title-tagline/title-tagline.php:121
+msgid "px"
+msgstr ""
+
+#: template-parts/blog/post/post.php:9
+#: template-parts/blog/post/partials/post_read_more.php:3
+#: inc/customizer/panels/blog/sections/blog-page.php:311
+msgid "Read More"
+msgstr ""
+
+#: template-parts/blog/post/content/content-none.php:11
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:310
+msgid "related to \"font-display\" descriptor."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:64
+msgid ""
+"Render every frame in integer pixel values, set to true to improve scrolling "
+"performance."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:27
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:42
+msgid "Reveal transition timescale (speed multiplier)"
+msgstr ""
+
+#. Name of the theme
+msgid "Rhye"
+msgstr ""
+
+#: inc/functions/load_plugins.php:49
+msgid "Rhye Core"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/sidebar.php:20
+msgid "Right Side"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:492
+msgid "Save Changes"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/gutters.php:87
+#: inc/customizer/panels/general-style/sections/gutters.php:242
+msgid "Screens max. of 1280px width"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/gutters.php:55
+#: inc/customizer/panels/general-style/sections/gutters.php:210
+msgid "Screens max. of 1400px width"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/gutters.php:119
+#: inc/customizer/panels/general-style/sections/gutters.php:274
+msgid "Screens max. of 991px width"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/gutters.php:25
+#: inc/customizer/panels/general-style/sections/gutters.php:180
+msgid "Screens min. of 1401px width"
+msgstr ""
+
+#: template-parts/masthead/masthead-elementor-halfscreen-image-right-properties.php:59
+#: template-parts/masthead/masthead-elementor-halfscreen-image-left-properties.php:59
+#: template-parts/masthead/masthead-elementor-halfscreen-image-left.php:62
+#: template-parts/masthead/masthead-elementor-halfscreen-image-right.php:62
+#: template-parts/masthead/masthead-elementor-fullscreen.php:56
+#: inc/functions/templates/the_scroll_down_button.php:8
+#: inc/customizer/panels/theme-options/theme-options.php:68
+#: inc/customizer/panels/theme-options/sections/scroll-down.php:13
+msgid "Scroll Down"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:180
+msgid "Scroll Down Button"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/portfolio.php:87
+msgid "Scroll Down Label"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:65
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:59
+#: inc/customizer/panels/theme-options/sections/preloader.php:49
+#: inc/customizer/panels/header/sections/options.php:45
+#: inc/customizer/panels/header/sections/options.php:95
+msgid "Secondary"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:101
+msgid "Secondary Featured Image"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:16
+msgid "Secondary Logo"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:379
+msgid "Select a font weight of the uploaded font file"
+msgstr ""
+
+#: inc/customizer/panels/blog/blog.php:50
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/sidebar.php:12
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/functions/load_plugins.php:89
+msgid "Simple Post Type Permalinks"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/outdated-browsers.php:23
+msgid "Simulate Outdated Browser"
+msgstr ""
+
+#: inc/customizer/panels/blog/blog.php:37
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:96
+msgid "Single Post Article Background"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:70
+msgid "Single Post Color Theme"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:151
+msgid "Single Post Heading"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:83
+msgid "Single Post Main Elements Color"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:205
+msgid "Single Post Thumbnail"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:29
+msgid "Skip"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:329
+msgid "Sliders Dots"
+msgstr ""
+
+#: inc/functions/constants.php:57
+msgid "Small"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:263
+msgid "Small Distance Preset"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/theme-options.php:78
+msgid "Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:352
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:188
+msgid "Solid"
+msgstr ""
+
+#: template-parts/blog/post/content/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:72
+msgid "Space Between"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:332
+msgid "Square Box"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:31
+msgid "Start"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:76
+msgid "Start Customizing"
+msgstr ""
+
+#: template-parts/masthead/masthead.php:45
+#: template-parts/masthead/masthead-post.php:22
+#: inc/customizer/panels/blog/sections/post.php:212
+msgid "Start Reading"
+msgstr ""
+
+#: inc/customizer/panels/pages/pages.php:37
+msgid "Static Pages"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/options.php:61
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/options.php:70
+msgid "Sticky Background Color"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/options.php:89
+msgid "Sticky Logo to Display"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/curtains.php:18
+msgid "Straight"
+msgstr ""
+
+#: inc/customizer/panels/blog/blog.php:11
+#: inc/customizer/panels/pages/sections/404.php:101
+#: inc/customizer/panels/pages/sections/404.php:181
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/contact-form-7.php:10
+msgid ""
+"Styled success and error windows that appear when a visitor submits a form"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:127
+msgid "Sub Menu Items Preset"
+msgstr ""
+
+#: inc/functions/constants.php:56 inc/functions/acf/acf_fields.php:125
+#: inc/customizer/panels/typography/typography.php:51
+#: inc/customizer/panels/typography/sections/subheading.php:12
+#: inc/customizer/panels/theme-options/sections/preloader.php:117
+msgid "Subheading"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/preloader.php:140
+msgid "Subheading Preset"
+msgstr ""
+
+#: inc/customizer/title-tagline/title-tagline.php:77
+msgid "Tablet screens"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:140
+msgid "The code inserted below will be executed after each AJAX transition."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:212
+msgid ""
+"The filter applies for all the published posts. All the categories assigned "
+"to the posts are displayed and remain unchanged. The posts pagination works "
+"for the currently active category."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/blog-page.php:182
+msgid ""
+"The filter applies for the posts displayed on the current page in paginated "
+"blog. Navigating the blog pages updates the categories set depending on the "
+"currently displayed posts."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:57
+msgid ""
+"The lower the value is, the faster virtual mouse follower will attract to "
+"the native cursor pointer."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:39
+msgid "The lower the value is, the more smooth the scrolling will be."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:142
+msgid ""
+"The posts headings tag will remain <h2> regardless of the selected styling "
+"preset."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:64
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/smooth-scroll.php:83
+msgid "The scroll will slow down with ease when reaching the page edges."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:156
+msgid ""
+"The single post heading tag will remain <h1> regardless of the selected "
+"styling preset."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:46
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/outdated-browsers.php:10
+msgid ""
+"The theme is compatible only with modern browsers. In case a visitor landed "
+"on the website using an outdated browser (like Internet Explorer) there will "
+"appear a banner with the proposal to update a browser."
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+msgid "Theme Options"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:24
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/functions/blog/password_form.php:13
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:128
+msgid ""
+"This field won't appear if there is a portfolio category assigned to this "
+"post."
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/layout.php:10
+msgid ""
+"This option calculates the full height elements to fit the entire screen "
+"considering the height of bottom navigation bar."
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:10
+msgid ""
+"This option has an effect only on desktop. On mobile there is always a "
+"fullscreen overlay menu."
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/options.php:31
+#: inc/customizer/panels/footer/sections/options.php:45
+#: inc/customizer/panels/footer/sections/options.php:62
+#: inc/customizer/panels/footer/sections/section-lower.php:136
+#: inc/customizer/panels/footer/sections/section-upper.php:135
+#: inc/customizer/panels/pages/sections/portfolio.php:303
+#: inc/customizer/panels/pages/sections/portfolio.php:316
+#: inc/customizer/panels/pages/sections/portfolio.php:332
+#: inc/customizer/panels/header/sections/menu.php:30
+#: inc/customizer/panels/header/sections/menu.php:52
+#: inc/customizer/panels/header/sections/options.php:31
+#: inc/customizer/panels/header/sections/options.php:47
+#: inc/customizer/panels/header/sections/options.php:75
+#: inc/customizer/panels/header/sections/options.php:97
+msgid ""
+"This option may be overriden for the current page from Elementor document "
+"settings."
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:17
+#: inc/customizer/panels/footer/sections/section-upper.php:38
+msgid ""
+"This setting creates a widget area per each column. You can edit your "
+"widgets from"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:52
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/style.php:179
+msgid "Thumbnails"
+msgstr ""
+
+#: inc/customizer/panels/pages/sections/404.php:60
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/panels/blog/sections/sidebar.php:14
+msgid "To remove sidebar from blog, remove all the widgets placed into it."
+msgstr ""
+
+#: template-parts/photoswipe/pswp-container.php:57
+msgid "Toggle Fullscreen"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:40
+#: inc/customizer/panels/footer/sections/section-upper.php:61
+msgid "Toggle mobile view in Customizer to preview the result"
+msgstr ""
+
+#: inc/customizer/panels/header/sections/menu.php:108
+msgid "Top Level Items Preset"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/cursor-follower.php:56
+msgid "Trailing Factor"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:149
+msgid "Transition timescale"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/animations.php:25
+msgid "Trigger hook"
+msgstr ""
+
+#: inc/customizer/customizer.php:46
+#: inc/customizer/panels/blog/sections/style.php:123
+#: inc/customizer/panels/pages/sections/portfolio.php:231
+#: inc/customizer/panels/header/sections/menu.php:87
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/layout.php:21
+msgid "Update Fullscreen Height Elements on Window Resize"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:173
+msgid "Update Page Head Nodes"
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:360
+msgid "Upload .woff or .woff2 font file"
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/scroll-down.php:9
+msgid ""
+"Used for masthead scroll down button on: Pages, Portfolio Items, Services, "
+"Albums."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:141
+msgid ""
+"Useful for adding the frontend compatibility with 3rd party scripts. Please "
+"check theme documentation to learn more."
+msgstr ""
+
+#: inc/customizer/panels/theme-options/sections/ajax-transitions.php:175
+msgid ""
+"Useful for adding the frontend compatibility with 3rd party styles. Please "
+"check theme documentation to learn more."
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:78
+msgid "Value"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/gutters.php:166
+msgid "Vertical Gutter Presets"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:73
+msgid "View your website"
+msgstr ""
+
+#: inc/functions/blog/comments.php:63
+msgid "Website"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/merlin-config.php:50
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/functions/constants.php:19
+msgid "White"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:339
+msgid "White Color"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/colors.php:325
+msgid "White Presets"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:18
+#: inc/customizer/panels/footer/sections/section-upper.php:39
+msgid "Widgets panel."
+msgstr ""
+
+#: inc/functions/acf/acf_fields.php:497
+msgid "WordPress Customizer."
+msgstr ""
+
+#: inc/customizer/panels/typography/typography.php:25
+msgid "XL & XXL Headings"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:11
+msgid "XLarge Distance Preset"
+msgstr ""
+
+#: inc/customizer/panels/general-style/sections/paddings-margins.php:347
+msgid "XSmall Distance Preset"
+msgstr ""
+
+#: inc/functions/helpers/set_page_title.php:57
+msgid "Year archive"
+msgstr ""
+
+#: inc/customizer/panels/footer/sections/section-lower.php:41
+#: inc/customizer/panels/footer/sections/section-upper.php:62
+msgid "You can separately control how your columns stack on mobile screens."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:53
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:55
+msgid "You're good to go!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:62
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:57
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: inc/classes/class-arts-walker-comment.php:80
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Theme Author
+#: inc/merlin/merlin-config.php:71
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:47
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
